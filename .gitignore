@@ -24,3 +24,10 @@ web_custom_versions/
 filtered-openapi.yaml
 uv.lock
 .comfy_environment
+models
+models/
+user_backup
+API.zip
+API/
+output
+output/
